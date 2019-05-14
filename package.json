@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallard1/react_shopping_list_server.git"
+  },
+  "author": "Kevin Allard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kallard1/react_shopping_list_server/issues"
+  },
+  "homepage": "https://github.com/kallard1/react_shopping_list_server#readme"
+}
