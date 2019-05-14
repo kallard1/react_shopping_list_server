@@ -1,5 +1,5 @@
 /client/
-
+/config/keys.js
 # Created by https://www.gitignore.io/api/node,jetbrains+all,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,jetbrains+all,visualstudiocode
 
